@@ -1,2 +1,2 @@
-# Re-ranking-for-diversity
+# Re-ranking-for-diversity-of-search-results
 Information Retrieval
